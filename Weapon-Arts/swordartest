@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Sword Arts</name>
+		<description>When you compare it to other weaponry, the blade is closer to an art form than not.</description>
+		<author url="https://www.youtube.com/channel/UC_PilhVuXAufYKy-ap08OKw">Textual Deviant</author>
+		<update version="0.0.1">
+			<file name="sword-arts.xml" url="https://raw.githubusercontent.com/Textual-Deviant/Aurora-Builder-Complete-Martial-Combat-Mastery/main/elements/CMCM/sword-arts.xml" />
+		</update>
+	</info>
+
+</elements>
